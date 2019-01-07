@@ -1,2 +1,3 @@
-# aryan27agarwal.github.io
-My personal website.
+# agarwalaryan.me
+
+My personal [website](https://aryan27agarwal.github.io).
